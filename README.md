@@ -26,6 +26,8 @@ It allows seamless machine-native transactions:
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
+* [doc-extract](https://extract.theifstatement.dev/v1/doc-extract) - Extracts schema-shaped JSON from a public PDF URL via x402. $0.05 USDC on Base Sepolia. Landing: https://extract.theifstatement.dev/ [Repo](https://github.com/MxScripter/url-json-extract-deploy)
+
 ---
 
 ## Dashboard
